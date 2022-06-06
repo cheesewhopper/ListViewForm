@@ -1,0 +1,17 @@
+C:\Users\lcg80\source\repos\ListView\ListView\bin\Debug\net6.0-windows\ListView.exe
+C:\Users\lcg80\source\repos\ListView\ListView\bin\Debug\net6.0-windows\ListView.deps.json
+C:\Users\lcg80\source\repos\ListView\ListView\bin\Debug\net6.0-windows\ListView.runtimeconfig.json
+C:\Users\lcg80\source\repos\ListView\ListView\bin\Debug\net6.0-windows\ListView.dll
+C:\Users\lcg80\source\repos\ListView\ListView\bin\Debug\net6.0-windows\ListView.pdb
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.csproj.AssemblyReference.cache
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.Form1.resources
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.csproj.GenerateResource.cache
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.AssemblyInfoInputs.cache
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.AssemblyInfo.cs
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.csproj.CoreCompileInputs.cache
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.dll
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\refint\ListView.dll
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.pdb
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ListView.genruntimeconfig.cache
+C:\Users\lcg80\source\repos\ListView\ListView\obj\Debug\net6.0-windows\ref\ListView.dll
